@@ -1,0 +1,14 @@
+{
+  "name": "sleep-analysis-viz",
+  "version": "1.0.0",
+  "description": "Visualization of late-night behavior using D3.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server src -c-1 -o"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
